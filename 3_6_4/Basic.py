@@ -2,11 +2,10 @@
 # -*- coding: UTF-8 -*-
 
 """
-Filename     : Basic.py
 last modified: 2018.02.09
 """
 
-# pythone3 filename.py
+# python3 filename.py
 
 
 # comment
