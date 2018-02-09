@@ -1,0 +1,69 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+"""
+File         : String.txt
+Last modified: 2018.02.09
+"""
+
+
+string = 'Hello Python'
+string = "Hello Python"
+string = '''
+Hello Python
+'''
+string = """
+Hello Python
+"""
+
+
+1. Escape character
+
+\\        backslash
+\'        single quote
+\"        double quote
+\a
+\b        backspace
+\r        carriage return
+\f        form feed
+\n        New line
+\t        Tab
+\000      null character (U+0000 NULL)
+
+
+2. count(), find(), index(), join()
+
+string.count('')
+string.count('c')
+string.find('s')
+string.index('s')
+
+opt=','
+opt.join(string)
+
+
+3. upper(), lower(), lstrip(), rstrip(), strip()
+
+string.upper()   
+string.lower()   
+string.lstrip()   
+string.rstrip()
+string.strip()
+
+
+4. replace(), split()
+
+string.replace("old","new")
+string.split()
+# Default: Space, Tab, Enter
+string.split('s')
+
+
+5. Indexing
+
+string[n]
+
+
+6. Slicing
+
+string[:], string[m:], string[:n], string[m:n]

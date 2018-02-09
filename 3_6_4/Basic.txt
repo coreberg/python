@@ -2,8 +2,10 @@
 # -*- coding: UTF-8 -*-
 
 """
-last modified: 2018.02.09
+File         : Basic.txt
+Last modified: 2018.02.09
 """
+
 
 # python3 filename.py
 

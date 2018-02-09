@@ -1,0 +1,23 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+"""
+File         : Variables.txt
+Last modified: 2018.02.09
+"""
+
+
+i = j = 123
+i, j = 123, 456
+i, j = (123, 456)
+(i, j) = 123, 456
+[i, j] = [123, 456]
+
+>>> i, j = 123, 456
+>>> i, j = j, i
+>>> i
+456
+>>> j
+123
+
+del(i)

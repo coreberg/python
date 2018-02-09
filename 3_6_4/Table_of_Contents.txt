@@ -1,3 +1,15 @@
 Python 3.6.4 - Table of Contents:
 
 01. Basic
+02. String
+    1. Escape character
+    2. count(), find(), index(), join()
+    3. upper(), lower(), lstrip(), rstrip(), strip()
+    4. replace(), split()
+    5. Indexing
+    6. Slicing
+03. Number
+04. Variables
+05. List
+06. Tuple
+07. Dictionary
