@@ -1,8 +1,3 @@
-"""
-Last modified: 2018.02.09
-"""
-
-
 Integer, Floating-point, Octal(0o7, 0O77), Hexadecimal(0x1af)
 + - * / // % **
 
