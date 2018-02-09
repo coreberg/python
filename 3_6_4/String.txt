@@ -1,8 +1,4 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-
 """
-File         : String.txt
 Last modified: 2018.02.09
 """
 

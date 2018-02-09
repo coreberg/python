@@ -1,8 +1,4 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-
 """
-File         : Number.txt
 Last modified: 2018.02.09
 """
 
